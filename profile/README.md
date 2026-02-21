@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://developers.google.com/static/community/images/gdg-logo.svg" alt="GDG Logo" width="80" />
+![GDG](https://img.shields.io/badge/GDG-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4)
+![Developer](https://img.shields.io/badge/Developer-EA4335?style=for-the-badge&logoColor=white&labelColor=EA4335)
+![Groups](https://img.shields.io/badge/Groups-34A853?style=for-the-badge&logoColor=white&labelColor=34A853)
 
 # GDG Busan
 
